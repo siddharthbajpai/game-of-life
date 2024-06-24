@@ -305,7 +305,7 @@
                                 <plugin>
                                     <artifactId>maven-project-info-reports-plugin</artifactId>
                                     <version>2.7</version>
-                                </reportplugins>
+                                </reportPlugins>
                                 <plugin>
                                     <groupId>org.jacoco</groupId>
                                     <artifactId>jacoco-maven-plugin</artifactId>
